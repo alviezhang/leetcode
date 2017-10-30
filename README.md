@@ -6,6 +6,8 @@
 
 # Solved
 
+- [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
+
 - [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 
 - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
