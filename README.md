@@ -8,6 +8,8 @@
 
 # Solved
 
+- [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
+
 - [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
 
 - [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
