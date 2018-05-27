@@ -6,11 +6,11 @@
 
 - [148. Sort List](https://leetcode.com/problems/sort-list/)
 
-- [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
-
 - [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
 # Solved
+
+- [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 
 - [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
 
