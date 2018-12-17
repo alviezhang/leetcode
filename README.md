@@ -10,6 +10,8 @@
 
 # Solved
 
+- [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)
+
 - [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 
 - [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
