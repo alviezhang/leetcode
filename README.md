@@ -10,6 +10,8 @@
 
 # Solved
 
+- [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+
 - [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
 - [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
