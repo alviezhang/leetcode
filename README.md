@@ -10,6 +10,8 @@
 
 # Solved
 
+- [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
+
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
 - [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)
