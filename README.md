@@ -10,6 +10,8 @@
 
 # Solved
 
+- [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+
 - [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
 
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
