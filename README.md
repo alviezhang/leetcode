@@ -10,6 +10,12 @@
 
 # Solved
 
+- [140. Word Break II](https://leetcode.com/problems/word-break-ii/)
+
+- [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+
+- [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
+
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 - [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
