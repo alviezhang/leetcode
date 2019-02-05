@@ -10,6 +10,8 @@
 
 # Solved
 
+- [51. N-Queens](https://leetcode.com/problems/n-queens/)
+
 - [140. Word Break II](https://leetcode.com/problems/word-break-ii/)
 
 - [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
