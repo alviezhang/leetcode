@@ -10,6 +10,8 @@
 
 # Solved
 
+- [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)
+
 - [51. N-Queens](https://leetcode.com/problems/n-queens/)
 
 - [140. Word Break II](https://leetcode.com/problems/word-break-ii/)
